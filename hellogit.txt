@@ -1,0 +1,9 @@
+vim hellogit.txt
+创建txt文件并编辑
+输入[i]进入编辑状态
+按下[esc]退出编辑状态
+按下[:wq]表示保存退出
+
+hello git
+hello git
+hello git
